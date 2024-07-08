@@ -71,7 +71,7 @@ $ git remote add origin http://code.AGMNSinnovations.com/Barista/valet/valetmana
 error: remote origin already exists.
 
 $ git push -u origin kiosk_july_08
-To http://code.breadcrumbsinnovations.com/parkfinda/valet360/valetmanager-kiosk-mvvm.git
+To http://code.AGMNSinnovations.com/Barista/valet/valetmanager-kiosk-mvvm.git
  ! [rejected]        kiosk_july_08 -> kiosk_july_08 (non-fast-forward)
 error: failed to push some refs to 'http://code.AGMNSinnovations.com/Barista/valet/valetmanager-kiosk-mvvm.git'
 
